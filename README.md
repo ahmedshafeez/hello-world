@@ -1,2 +1,5 @@
 # hello-world
-First repository by me
+
+Hi People!
+
+Shafeez here, I am new to Git.
